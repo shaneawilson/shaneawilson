@@ -12,5 +12,5 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Shane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="Shane | LinkedIn" width="22px" src="www.linkedin.com/in/shane-wilson-8b5074295" />]
 [linkedin]: https://linkedin.com/in/Shane
