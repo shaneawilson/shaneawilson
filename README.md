@@ -11,6 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shaneawilson/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="shane-wilson| LinkedIn" width="22px" src="www.linkedin.com/in/shane-wilson-8b5074295" />]
-[linkedin]: https://linkedin.com/in/Shane
+www.linkedin.com/in/shane-wilson-8b5074295
